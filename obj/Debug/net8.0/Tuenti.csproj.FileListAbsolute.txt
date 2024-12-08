@@ -1,0 +1,9 @@
+D:\repositorios\multimedia\Tuenti\Tuenti\obj\Debug\net8.0\Tuenti.csproj.AssemblyReference.cache
+D:\repositorios\multimedia\Tuenti\Tuenti\obj\Debug\net8.0\Tuenti.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorios\multimedia\Tuenti\Tuenti\obj\Debug\net8.0\Tuenti.AssemblyInfoInputs.cache
+D:\repositorios\multimedia\Tuenti\Tuenti\obj\Debug\net8.0\Tuenti.AssemblyInfo.cs
+D:\repositorios\multimedia\Tuenti\Tuenti\obj\Debug\net8.0\Tuenti.csproj.CoreCompileInputs.cache
+D:\repositorios\multimedia\Tuenti\Tuenti\obj\Debug\net8.0\Tuenti.MvcApplicationPartsAssemblyInfo.cache
+D:\repositorios\multimedia\Tuenti\Tuenti\obj\Debug\net8.0\Tuenti.RazorAssemblyInfo.cache
+D:\repositorios\multimedia\Tuenti\Tuenti\obj\Debug\net8.0\Tuenti.RazorAssemblyInfo.cs
+D:\repositorios\multimedia\Tuenti\Tuenti\obj\Debug\net8.0\Tuenti.sourcelink.json

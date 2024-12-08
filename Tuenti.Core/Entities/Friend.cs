@@ -8,6 +8,6 @@
         
         //Navegacion
         public User User { get; set; }
-        public User FriendUs { get; set; }
+        public User FriendUser { get; set; }
     }
 }
