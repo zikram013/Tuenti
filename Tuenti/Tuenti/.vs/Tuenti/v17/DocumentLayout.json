@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F60E7A5D-DDBD-4253-8598-5C3FFC4AED90}|Elementos de la soluci\u00F3n{F60E7A5D-DDBD-4253-8598-5C3FFC4AED90}|D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F60E7A5D-DDBD-4253-8598-5C3FFC4AED90}|Elementos de la soluci\u00F3n{F60E7A5D-DDBD-4253-8598-5C3FFC4AED90}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EB53A6-9718-4572-85D4-76A18ABD5FBF}|Tuenti.Web\\Tuenti.Web.csproj|d:\\repositorios\\multimedia\\tuenti\\tuenti\\tuenti\\tuenti.web\\tuenti.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47EB53A6-9718-4572-85D4-76A18ABD5FBF}|Tuenti.Web\\Tuenti.Web.csproj|solutionrelative:tuenti.web\\tuenti.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +31,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-15T20:03:07.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tuenti.Web",
+              "DocumentMoniker": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Web\\Tuenti.Web.csproj",
+              "RelativeDocumentMoniker": "Tuenti.Web\\Tuenti.Web.csproj",
+              "ToolTip": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Web\\Tuenti.Web.csproj",
+              "RelativeToolTip": "Tuenti.Web\\Tuenti.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-15T19:58:57.096Z",
+              "EditorCaption": ""
             }
           ]
         }

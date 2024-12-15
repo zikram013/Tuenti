@@ -1,9 +1,44 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuenti.Web", "Tuenti.Web\Tuenti.Web.csproj", "{47EB53A6-9718-4572-85D4-76A18ABD5FBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuenti.Application", "Tuenti.Application\Tuenti.Application.csproj", "{CAA1D9ED-DE96-477F-B799-D1E4AEA8D807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuenti.Core", "Tuenti.Core\Tuenti.Core.csproj", "{BAA7CC9A-F8BB-4A69-8100-6F4083B8A57A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuenti.Infrastucture", "Tuenti.Infrastructure\Tuenti.Infrastucture.csproj", "{64CF13D3-CCA7-4E4B-AB71-F7354BECB4D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{F60E7A5D-DDBD-4253-8598-5C3FFC4AED90}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47EB53A6-9718-4572-85D4-76A18ABD5FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EB53A6-9718-4572-85D4-76A18ABD5FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EB53A6-9718-4572-85D4-76A18ABD5FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EB53A6-9718-4572-85D4-76A18ABD5FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA1D9ED-DE96-477F-B799-D1E4AEA8D807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA1D9ED-DE96-477F-B799-D1E4AEA8D807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA1D9ED-DE96-477F-B799-D1E4AEA8D807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA1D9ED-DE96-477F-B799-D1E4AEA8D807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA7CC9A-F8BB-4A69-8100-6F4083B8A57A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA7CC9A-F8BB-4A69-8100-6F4083B8A57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA7CC9A-F8BB-4A69-8100-6F4083B8A57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA7CC9A-F8BB-4A69-8100-6F4083B8A57A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64CF13D3-CCA7-4E4B-AB71-F7354BECB4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CF13D3-CCA7-4E4B-AB71-F7354BECB4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CF13D3-CCA7-4E4B-AB71-F7354BECB4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CF13D3-CCA7-4E4B-AB71-F7354BECB4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
