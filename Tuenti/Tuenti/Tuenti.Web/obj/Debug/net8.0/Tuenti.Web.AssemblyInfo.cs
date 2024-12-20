@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tuenti.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efb02a9f67a20e30113432755b9f3e92430feb44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d7e7d5a041bf16d59f86fa602e2d3f2645d1b30")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tuenti.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tuenti.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

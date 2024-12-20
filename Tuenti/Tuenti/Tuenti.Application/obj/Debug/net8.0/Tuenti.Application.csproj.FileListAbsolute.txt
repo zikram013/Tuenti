@@ -1,0 +1,16 @@
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\bin\Debug\net8.0\Tuenti.Application.deps.json
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\bin\Debug\net8.0\Tuenti.Application.dll
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\bin\Debug\net8.0\Tuenti.Application.pdb
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\bin\Debug\net8.0\Tuenti.Core.dll
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\bin\Debug\net8.0\Tuenti.Core.pdb
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\obj\Debug\net8.0\Tuenti.Application.csproj.AssemblyReference.cache
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\obj\Debug\net8.0\Tuenti.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\obj\Debug\net8.0\Tuenti.Application.AssemblyInfoInputs.cache
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\obj\Debug\net8.0\Tuenti.Application.AssemblyInfo.cs
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\obj\Debug\net8.0\Tuenti.Application.csproj.CoreCompileInputs.cache
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\obj\Debug\net8.0\Tuenti.Application.sourcelink.json
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\obj\Debug\net8.0\Tuenti.A.25597A97.Up2Date
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\obj\Debug\net8.0\Tuenti.Application.dll
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\obj\Debug\net8.0\refint\Tuenti.Application.dll
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\obj\Debug\net8.0\Tuenti.Application.pdb
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Application\obj\Debug\net8.0\ref\Tuenti.Application.dll
