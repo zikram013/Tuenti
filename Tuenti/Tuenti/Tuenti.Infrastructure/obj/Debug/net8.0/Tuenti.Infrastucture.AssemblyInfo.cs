@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tuenti.Infrastucture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d7e7d5a041bf16d59f86fa602e2d3f2645d1b30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+748df605b266d2fcd85045e480be5c3c039812fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tuenti.Infrastucture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tuenti.Infrastucture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
