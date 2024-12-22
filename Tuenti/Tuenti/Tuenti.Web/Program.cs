@@ -29,6 +29,9 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 //Registrar repositorios y UnitOfWork
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IPostRepository,PostRepository>();
+builder.Services.AddScoped<IFriendRepository,FriendRepository>();
+builder.Services.AddScoped<ICommentRepository,CommentRepository>();
+builder.Services.AddScoped<IUserRepository,UserRepository>();
 
 
 //builder.Services.AddIdentityCore<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
