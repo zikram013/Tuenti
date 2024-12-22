@@ -1,6 +1,7 @@
 D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Core\bin\Debug\net8.0\Tuenti.Core.deps.json
 D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Core\bin\Debug\net8.0\Tuenti.Core.dll
 D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Core\bin\Debug\net8.0\Tuenti.Core.pdb
+D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Core\obj\Debug\net8.0\Tuenti.Core.csproj.AssemblyReference.cache
 D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Core\obj\Debug\net8.0\Tuenti.Core.GeneratedMSBuildEditorConfig.editorconfig
 D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Core\obj\Debug\net8.0\Tuenti.Core.AssemblyInfoInputs.cache
 D:\repositorios\multimedia\Tuenti\Tuenti\Tuenti\Tuenti.Core\obj\Debug\net8.0\Tuenti.Core.AssemblyInfo.cs

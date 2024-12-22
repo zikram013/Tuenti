@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tuenti.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+580ba73c4df3a9c90d95c7c69b541efb7adfc9ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47a8070402d843dbbb802d49e3b4d269ed59f267")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tuenti.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tuenti.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
