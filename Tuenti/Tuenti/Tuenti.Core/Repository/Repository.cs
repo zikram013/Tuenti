@@ -14,10 +14,10 @@ namespace Tuenti.Core.Repository
         protected readonly DbContext _dbContext;
         protected readonly DbSet<T> _dbSet;
 
-        public Repository(DbContext dbContext, DbSet<T> dbSet)
+        public Repository(DbContext dbContext)
         {
             _dbContext = dbContext;
-            _dbSet = dbSet;
+            _dbSet = _dbContext.Set<T>();
         }
 
         public async Task AddAsync(T entity)
