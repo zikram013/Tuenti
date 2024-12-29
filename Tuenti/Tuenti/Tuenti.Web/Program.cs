@@ -33,6 +33,10 @@ builder.Services.AddScoped<IFriendRepository,FriendRepository>();
 builder.Services.AddScoped<ICommentRepository,CommentRepository>();
 builder.Services.AddScoped<IUserRepository,UserRepository>();
 
+builder.Services.AddHttpClient("TuentiAPI", client =>
+{
+    client.BaseAddress = new Uri("https://localhost:<puerto>/api/");
+});
 
 //builder.Services.AddIdentityCore<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
 //    .AddEntityFrameworkStores<ApplicationDbContext>()
