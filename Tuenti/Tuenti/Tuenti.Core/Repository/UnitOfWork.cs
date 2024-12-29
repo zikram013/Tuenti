@@ -17,6 +17,8 @@ namespace Tuenti.Core.Repository
         public ICommentRepository Comments { get; private set; }
         public IFriendRepository Friends { get; private set; }
 
+        public IStatesRepository States { get; private set; }
+
         public UnitOfWork(DbContext context)
         {
             _context = context;
@@ -24,6 +26,7 @@ namespace Tuenti.Core.Repository
             Posts = new PostRepository(context);
             Comments = new CommentRepository(context);
             Friends = new FriendRepository(context);
+            States = new StatesRepository(context);
         }
 
         public async Task<int> SaveChangesAsync()

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WCiJ764TJIBpBiG63sfOnUFUdjHwwESD3Le8oBmjSEc=",
+  "Source": "Tuenti.Api",
+  "BasePath": "_content/Tuenti.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

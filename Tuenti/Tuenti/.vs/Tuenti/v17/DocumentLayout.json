@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BAA7CC9A-F8BB-4A69-8100-6F4083B8A57A}|Tuenti.Core\\Tuenti.Core.csproj|d:\\repositorios\\multimedia\\tuenti\\tuenti\\tuenti\\tuenti.core\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA7CC9A-F8BB-4A69-8100-6F4083B8A57A}|Tuenti.Core\\Tuenti.Core.csproj|solutionrelative:tuenti.core\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EB53A6-9718-4572-85D4-76A18ABD5FBF}|Tuenti.Web\\Tuenti.Web.csproj|d:\\repositorios\\multimedia\\tuenti\\tuenti\\tuenti\\tuenti.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EB53A6-9718-4572-85D4-76A18ABD5FBF}|Tuenti.Web\\Tuenti.Web.csproj|solutionrelative:tuenti.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA14C63C-B38A-481A-88A6-FB3FCDC6CC9D}|Tuenti.Api\\Tuenti.Api.csproj|d:\\repositorios\\multimedia\\tuenti\\tuenti\\tuenti\\tuenti.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA14C63C-B38A-481A-88A6-FB3FCDC6CC9D}|Tuenti.Api\\Tuenti.Api.csproj|solutionrelative:tuenti.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA1D9ED-DE96-477F-B799-D1E4AEA8D807}|Tuenti.Application\\Tuenti.Application.csproj|d:\\repositorios\\multimedia\\tuenti\\tuenti\\tuenti\\tuenti.application\\services\\statesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA1D9ED-DE96-477F-B799-D1E4AEA8D807}|Tuenti.Application\\Tuenti.Application.csproj|solutionrelative:tuenti.application\\services\\statesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA1D9ED-DE96-477F-B799-D1E4AEA8D807}|Tuenti.Application\\Tuenti.Application.csproj|d:\\repositorios\\multimedia\\tuenti\\tuenti\\tuenti\\tuenti.application\\interface\\istatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA1D9ED-DE96-477F-B799-D1E4AEA8D807}|Tuenti.Application\\Tuenti.Application.csproj|solutionrelative:tuenti.application\\interface\\istatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,22 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Tuenti.Api\\Program.cs",
-              "ToolTip": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Api\\Program.cs",
-              "RelativeToolTip": "Tuenti.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T21:34:17.682Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -41,6 +43,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Core\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Tuenti.Core\\Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Core\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Tuenti.Core\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:53:33.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Tuenti.Web\\Program.cs",
+              "ToolTip": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Web\\Program.cs",
+              "RelativeToolTip": "Tuenti.Web\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:22:25.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Tuenti.Api\\Program.cs",
+              "ToolTip": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Api\\Program.cs",
+              "RelativeToolTip": "Tuenti.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:20:44.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatesService.cs",
+              "DocumentMoniker": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Application\\Services\\StatesService.cs",
+              "RelativeDocumentMoniker": "Tuenti.Application\\Services\\StatesService.cs",
+              "ToolTip": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Application\\Services\\StatesService.cs",
+              "RelativeToolTip": "Tuenti.Application\\Services\\StatesService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:18:56.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStatesService.cs",
+              "DocumentMoniker": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Application\\Interface\\IStatesService.cs",
+              "RelativeDocumentMoniker": "Tuenti.Application\\Interface\\IStatesService.cs",
+              "ToolTip": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Application\\Interface\\IStatesService.cs",
+              "RelativeToolTip": "Tuenti.Application\\Interface\\IStatesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:18:35.962Z",
+              "EditorCaption": ""
             }
           ]
         }
