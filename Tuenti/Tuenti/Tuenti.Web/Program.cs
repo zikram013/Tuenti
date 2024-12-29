@@ -26,13 +26,6 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-//Registrar repositorios y UnitOfWork
-builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-builder.Services.AddScoped<IPostRepository,PostRepository>();
-builder.Services.AddScoped<IFriendRepository,FriendRepository>();
-builder.Services.AddScoped<ICommentRepository,CommentRepository>();
-builder.Services.AddScoped<IUserRepository,UserRepository>();
-
 builder.Services.AddHttpClient("TuentiAPI", client =>
 {
     client.BaseAddress = new Uri("https://localhost:<puerto>/api/");

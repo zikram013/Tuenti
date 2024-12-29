@@ -1174,6 +1174,19 @@
           }
         }
       },
+      "Tuenti.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Tuenti.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Tuenti.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tuenti.Application.dll": {}
+        }
+      },
       "Tuenti.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -3376,6 +3389,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Tuenti.Application/1.0.0": {
+      "type": "project",
+      "path": "../Tuenti.Application/Tuenti.Application.csproj",
+      "msbuildProject": "../Tuenti.Application/Tuenti.Application.csproj"
+    },
     "Tuenti.Core/1.0.0": {
       "type": "project",
       "path": "../Tuenti.Core/Tuenti.Core.csproj",
@@ -3394,6 +3412,7 @@
       "Microsoft.EntityFrameworkCore >= 8.0.11",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.11",
       "Swashbuckle.AspNetCore >= 6.6.2",
+      "Tuenti.Application >= 1.0.0",
       "Tuenti.Core >= 1.0.0",
       "Tuenti.Infrastucture >= 1.0.0"
     ]
@@ -3431,6 +3450,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Application\\Tuenti.Application.csproj": {
+              "projectPath": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Application\\Tuenti.Application.csproj"
+            },
             "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Core\\Tuenti.Core.csproj": {
               "projectPath": "D:\\repositorios\\multimedia\\Tuenti\\Tuenti\\Tuenti\\Tuenti.Core\\Tuenti.Core.csproj"
             },

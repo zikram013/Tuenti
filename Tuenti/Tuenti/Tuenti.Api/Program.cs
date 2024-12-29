@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Tuenti.Application.Interface;
+using Tuenti.Application.Services;
 using Tuenti.Core.Repository;
 using Tuenti.Core.Repository.Interface;
 using Tuenti.Tuenti.Infrastucture.Data;
@@ -17,7 +19,11 @@ builder.Services.AddScoped<IPostRepository, PostRepository>();
 builder.Services.AddScoped<IFriendRepository, FriendRepository>();
 builder.Services.AddScoped<ICommentRepository, CommentRepository>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
-
+builder.Services.AddScoped<IPostService, PostService>();
+builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<ICommentService, CommentService>();
+builder.Services.AddScoped<IFriendService, FriendService>();
+builder.Services.AddScoped<IStatesService, StatesService>();
 
 // Configurar controladores
 builder.Services.AddControllers();

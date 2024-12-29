@@ -29,6 +29,18 @@ namespace Tuenti.Tuenti.Infrastucture.Configurations
             builder.Property(u => u.Active).HasDefaultValue(true);
             //Indice
             builder.HasIndex(u=>u.Email);
+
+            // Relación uno-a-muchos con States
+            builder.HasMany(u => u.States)
+                   .WithOne(s => s.User)
+                   .HasForeignKey(s => s.UserId) // Clave foránea
+                   .OnDelete(DeleteBehavior.Cascade); // Eliminación en cascada
+
+            builder.HasMany(u => u.Post)
+                  .WithOne(s => s.User)
+                  .HasForeignKey(s => s.UserId) // Clave foránea
+                  .OnDelete(DeleteBehavior.Cascade);
         }
     }
+    
 }

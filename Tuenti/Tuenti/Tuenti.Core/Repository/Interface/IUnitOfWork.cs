@@ -13,6 +13,8 @@ namespace Tuenti.Core.Repository.Interface
         ICommentRepository Comments { get; }
         IFriendRepository Friends { get; }
 
+        IStatesRepository States { get; }
+
         Task<int> SaveChangesAsync();
     }
 }

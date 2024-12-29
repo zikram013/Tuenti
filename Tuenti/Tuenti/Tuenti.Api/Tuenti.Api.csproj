@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Tuenti.Application\Tuenti.Application.csproj" />
     <ProjectReference Include="..\Tuenti.Core\Tuenti.Core.csproj" />
     <ProjectReference Include="..\Tuenti.Infrastructure\Tuenti.Infrastucture.csproj" />
   </ItemGroup>

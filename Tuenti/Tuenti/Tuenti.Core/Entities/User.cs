@@ -16,4 +16,6 @@ public class User
     //Navegation
     public ICollection<Post>? Post { get; set; }
     public ICollection<Friend> Friends {get;set;}
+
+    public ICollection<States> States { get; set; }
 }
